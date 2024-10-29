@@ -1,0 +1,6 @@
+@Robbu.Desafio.Jean.API_HostAddress = http://localhost:5064
+
+GET {{Robbu.Desafio.Jean.API_HostAddress}}/Product/
+Accept: application/json
+
+###
